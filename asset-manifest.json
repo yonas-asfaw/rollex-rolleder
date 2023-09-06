@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rollex-rolleder/static/css/main.3944f950.css",
+    "main.js": "/rollex-rolleder/static/js/main.a7e91be2.js",
+    "static/js/787.2cecf74e.chunk.js": "/rollex-rolleder/static/js/787.2cecf74e.chunk.js",
+    "index.html": "/rollex-rolleder/index.html",
+    "main.3944f950.css.map": "/rollex-rolleder/static/css/main.3944f950.css.map",
+    "main.a7e91be2.js.map": "/rollex-rolleder/static/js/main.a7e91be2.js.map",
+    "787.2cecf74e.chunk.js.map": "/rollex-rolleder/static/js/787.2cecf74e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3944f950.css",
+    "static/js/main.a7e91be2.js"
+  ]
+}
